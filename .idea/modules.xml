@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mandrill_template_call.iml" filepath="$PROJECT_DIR$/.idea/Mandrill_template_call.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mandrill_sendMessage_examples/.idea/mandrill_sendMessage_examples.iml" filepath="$PROJECT_DIR$/../mandrill_sendMessage_examples/.idea/mandrill_sendMessage_examples.iml" />
     </modules>
   </component>
